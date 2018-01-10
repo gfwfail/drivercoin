@@ -1,0 +1,2 @@
+obj/scrypt.o: scrypt.cpp /Users/luye/Downloads/drivecoin/src/scrypt.h
+scrypt.cpp /Users/luye/Downloads/drivecoin/src/scrypt.h :

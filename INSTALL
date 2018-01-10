@@ -1,0 +1,9 @@
+Building DriveCoin
+
+See doc/readme-qt.rst for instructions on building DriveCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DriveCoin.
+
+See doc/build-*.txt for instructions on building drivecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DriveCoin.

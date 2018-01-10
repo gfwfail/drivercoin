@@ -1,0 +1,6 @@
+obj/version.o: version.cpp /Users/luye/Downloads/drivecoin/src/version.h \
+  /Users/luye/Downloads/drivecoin/src/clientversion.h \
+  /Users/luye/Downloads/drivecoin/src/obj/build.h
+version.cpp /Users/luye/Downloads/drivecoin/src/version.h :
+  /Users/luye/Downloads/drivecoin/src/clientversion.h :
+  /Users/luye/Downloads/drivecoin/src/obj/build.h :
